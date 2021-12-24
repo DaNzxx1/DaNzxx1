@@ -21,6 +21,6 @@
   <a href="https://github.com/DaNzxx1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "mailto:danilo.03@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rafaballerini/DaNzxx1/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DaNzxx1/DaNzxx1/blob/output/github-contribution-grid-snake.svg)
   
 </div
